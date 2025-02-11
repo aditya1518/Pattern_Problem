@@ -16,6 +16,5 @@ public class Problem_28
 	        System.out.println();
 	    }
 	    
-		System.out.println();
 	}
 }
